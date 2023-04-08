@@ -11,5 +11,10 @@ public class Main {
         Xron.radius="1212312133";
         Xron.color="pink";
 
+        JoeFeatures moon= new JoeFeatures();
+        moon.color="offWhite";
+        moon.when=14;
+        moon.moon="Beautiful";
+
     }
 }
