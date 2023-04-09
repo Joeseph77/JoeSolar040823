@@ -11,10 +11,17 @@ public class Main {
         Xron.radius="1212312133";
         Xron.color="pink";
 
+
         JoeFeatures moon= new JoeFeatures();
         moon.color="offWhite";
         moon.when=14;
         moon.moon="Beautiful";
+
+        LabibFeatures labib = new LabibFeatures();
+        labib.clouds="too cloudy";
+        labib.condition="cold";
+        labib.windSpeed=22;
+
 
     }
 }
